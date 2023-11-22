@@ -31,7 +31,7 @@ Currently looking for a new job!
 
 ![codewars](https://www.codewars.com/users/Geopy667/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub Statistic:
 
 <table>
   <tr>
