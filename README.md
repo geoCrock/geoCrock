@@ -2,18 +2,18 @@
 
 ---
 
-### About me:
+### 🗿 About me:
 
 
 My way into IT began when i went to my first job in august 2022. There are i got my first expireance in this industry. I worked as python developer. Created my own server with voice assistance. 
 Wrote some little components on React. Participated in our meetings, offered ideas to improve our project. Had administrator functions such as helping our users, finding bugs and track it. After one year of the job i went out of there. 
 Currently looking for a new job!
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-freegeorgiy-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/freegeorgiy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=black)](georgiy.pypok1337@gmail.com)
+- 🗣 Contacts: [![Telegram Badge](https://img.shields.io/badge/-freegeorgiy-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/freegeorgiy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=black)](georgiy.pypok1337@gmail.com)
 
 ---
 
-### 💻 Skills:
+### 🧠 Skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -27,11 +27,11 @@ Currently looking for a new job!
 
 ---
 
-### 💻 Codewars:
+### 🥋 Codewars:
 
 ![codewars](https://www.codewars.com/users/Geopy667/badges/large)
 
-### ⚙️ GitHub Statistic:
+### 👾 GitHub Statistic:
 
 <table>
   <tr>
