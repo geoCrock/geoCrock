@@ -44,4 +44,4 @@ Currently looking for a new job!
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-GitHub-Profile-Home)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=geoCrock.Geo-GitHub-Profile-Home)
