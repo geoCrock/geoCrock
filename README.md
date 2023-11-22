@@ -8,7 +8,7 @@
 My way into IT began when i went to my first job in august 2022. There are i got my first expireance in this industry. I worked as python developer. Created my own server with voice assistance. 
 Wrote some little components on React. Participated in our meetings, offered ideas to improve our project. Had administrator functions such as helping our users, finding bugs and track it. After one year of the job i went out of there. 
 
-<strong>Currently looking for a new job!<strong>
+<strong>Currently looking for a job!<strong>
 
 - 🗣 Contacts: [![Telegram Badge](https://img.shields.io/badge/-freegeorgiy-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/freegeorgiy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=black)](georgiy.pypok1337@gmail.com)
 
