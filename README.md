@@ -35,7 +35,7 @@ Wrote some little components on React. Participated in our meetings, offered ide
 
 ### 🥋 Codewars:
 
-![codewars](https://www.codewars.com/users/Geopy667/badges/large)
+<a> href="https://www.codewars.com/users/Geopy667" ![codewars](https://www.codewars.com/users/Geopy667/badges/large)</a>
 
 ### 👾 GitHub Statistic:
 
