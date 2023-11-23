@@ -15,7 +15,7 @@ Wrote some little components on React. Participated in our meetings, offered ide
 
 <div style="display: flex; justify-content: space-between;">
     <img src="cat.gif" alt="cat" style="width: 200px; height: 200px;">
-    <img src="cat.gif" alt="cat" style="width: 200px; height: 200px; transform: scaleX(-1);">
+    <img src="cat.gif" alt="cat2" style="width: 200px; height: 200px; transform: scaleX(-1);">
 </div>
 
 
