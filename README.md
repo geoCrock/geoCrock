@@ -10,11 +10,9 @@ Wrote some little components on React. Participated in our meetings, offered ide
 
  <p align="left">
   <img width="200" height="200" src="cat.gif" alt="cat"/>
+  <img width="200" height="200" src="cat.gif" alt="cat" style="align='left'"/>
  </p>
  
- <p align="right" transform: scaleX(-1)>
-  <img width="200" height="200" src="cat.gif" alt="cat"/>
- </p>
 
 <strong>Currently looking for a job!<strong>
 
