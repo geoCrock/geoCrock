@@ -8,10 +8,10 @@
 My way into IT began when i went to my first job in august 2022. There are i got my first expireance in this industry. I worked as python developer. Created my own server with voice assistance. 
 Wrote some little components on React. Participated in our meetings, offered ideas to improve our project. Had administrator functions such as helping our users, finding bugs and track it. After one year of the job i went out of there. 
 
-<p>
+<div>
   <img width="200" height="200" align="left" src="cat.gif" alt="cat"/>
   <img width="200" height="200" align="right" src="cat2.gif" alt="cat2"/>
-</p>
+</div>
 
 <strong>Currently looking for a job!<strong>
 
@@ -29,9 +29,9 @@ Wrote some little components on React. Participated in our meetings, offered ide
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
