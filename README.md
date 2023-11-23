@@ -10,7 +10,6 @@ Wrote some little components on React. Participated in our meetings, offered ide
 
  <p align="left">
   <img width="200" height="200" src="cat.gif" alt="cat"/>
-  <img width="200" height="200" src="cat.gif" alt="cat"/>
  </p>
  
  <p align="right" transform: scaleX(-1)>
