@@ -13,10 +13,16 @@ Wrote some little components on React. Participated in our meetings, offered ide
 <img width="200" height="200" transform: scaleX(-1) src="cat.gif" alt="cat" style="transform: scaleX(-1);"/>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="cat.gif" alt="cat" style="float: left; width: 200px; height: 200px;">
-    <img src="cat.gif" alt="cat2" style="float: right; width: 200px; height: 200px; transform: scaleX(-1);">
-</div>
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 50%; text-align: left;">
+            <img src="cat.gif" alt="cat" style="width: 100%; height: auto;">
+        </td>
+        <td style="width: 50%; text-align: right;">
+            <img src="cat.gif" alt="cat" style="width: 100%; height: auto; transform: scaleX(-1);">
+        </td>
+    </tr>
+</table>
 
 
 <strong>Currently looking for a job!<strong>
