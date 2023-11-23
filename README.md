@@ -8,6 +8,8 @@
 My way into IT began when i went to my first job in august 2022. There are i got my first expireance in this industry. I worked as python developer. Created my own server with voice assistance. 
 Wrote some little components on React. Participated in our meetings, offered ideas to improve our project. Had administrator functions such as helping our users, finding bugs and track it. After one year of the job i went out of there. 
 
+<iframe src="https://giphy.com/embed/BXjqytvu9bKzCUHdzz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 <strong>Currently looking for a job!<strong>
 
 
