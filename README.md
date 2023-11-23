@@ -8,21 +8,7 @@
 My way into IT began when i went to my first job in august 2022. There are i got my first expireance in this industry. I worked as python developer. Created my own server with voice assistance. 
 Wrote some little components on React. Participated in our meetings, offered ideas to improve our project. Had administrator functions such as helping our users, finding bugs and track it. After one year of the job i went out of there. 
 
-<div style="display: flex; justify-content: space-between;">
-<img width="200" height="200" src="cat.gif" alt="cat"/>
-<img width="200" height="200" transform: scaleX(-1) src="cat.gif" alt="cat" style="transform: scaleX(-1);"/>
-</div>
-
-<table style="width: 100%;">
-    <tr>
-        <td style="width: 50%; text-align: left;">
-            <img src="cat.gif" alt="cat" style="width: 100%; height: auto;">
-        </td>
-        <td style="width: 50%; text-align: right;">
-            <img src="cat.gif" alt="cat" style="width: 100%; height: auto; transform: scaleX(-1);">
-        </td>
-    </tr>
-</table>
+<img width="200" height="200" align="right" src="cat.gif" alt="cat"/>
 
 
 <strong>Currently looking for a job!<strong>
