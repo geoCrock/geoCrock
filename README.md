@@ -13,7 +13,9 @@ Wrote some little components on React. Participated in our meetings, offered ide
 <img width="200" height="200" align="left" src="cat.gif" alt="cat"/>
 <img width="200" height="200" align="right" src="cat2.gif" alt="cat2"/>
 
--  🗣 Contacts: [![Telegram Badge](https://img.shields.io/badge/-freegeorgiy-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/freegeorgiy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=black)](georgiy.pypok1337@gmail.com)
+---
+
+- 🗣 Contacts: [![Telegram Badge](https://img.shields.io/badge/-freegeorgiy-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/freegeorgiy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=black)](georgiy.pypok1337@gmail.com)
 
 ---
 
