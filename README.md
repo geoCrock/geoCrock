@@ -10,6 +10,8 @@ Wrote some little components on React. Participated in our meetings, offered ide
 
 <strong>Currently looking for a job!<strong>
 
+<iframe src="https://giphy.com/embed/JVglf7QjxaZZM2tjfB" width="480" height="326" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hustleinspireshustle-cat-jam-catjam-JVglf7QjxaZZM2tjfB">via GIPHY</a></p>
+
 - 🗣 Contacts: [![Telegram Badge](https://img.shields.io/badge/-freegeorgiy-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/freegeorgiy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=black)](georgiy.pypok1337@gmail.com)
 
 ---
