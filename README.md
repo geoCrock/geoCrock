@@ -9,6 +9,7 @@ Wrote some little components on React. Participated in our meetings, offered ide
 
 <p align="left">
  <img width="200" src="cat.gif" alt="cat"/>
+ <img width="200" src="girl.gif" align="center" alt="girl"/>
  <img width="200" src="cat2.gif" align="right" alt="cat2"/>
 </p>
 
