@@ -8,8 +8,8 @@ My way into IT began when i went to my first job in august 2022. There are i got
 Wrote some little components on React. Participated in our meetings, offered ideas to improve our project. Had administrator functions such as helping our users, finding bugs and track it. After one year of the job i went out of there. 
 
 <p align="left">
- <img wight="200" src="cat.gif" alt="cat"/>
- <img wight="200" src="cat2.gif" align="right" alt="cat2"/>
+ <img width="200" src="cat.gif" alt="cat"/>
+ <img width="200" src="cat2.gif" align="right" alt="cat2"/>
 </p>
 
 <strong>Currently looking for a job!<strong>
