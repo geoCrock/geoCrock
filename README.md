@@ -4,8 +4,7 @@
 
 ### 🗿 About me:
 
-My way into IT began when i went to my first job in august 2022. There are i got my first expireance in this industry. I worked as python developer. Created my own server with voice assistance. 
-Wrote some little components on React. Participated in our meetings, offered ideas to improve our project. Had administrator functions such as helping our users, finding bugs and track it.
+My journey into the IT industry began in August 2022 when I landed my first job. It was here that I gained valuable experience as a Python developer. I was tasked with creating my own server with voice assistance and writing various components using React. During our meetings, I actively participated and offered ideas to improve our project. Additionally, I had administrative duties such as assisting our users, finding and tracking bugs. Through this role, I was able to gain a deeper understanding of the industry and further develop my skills.
 
 <p align="left">
  <img width="200" src="cat.gif" alt="cat"/>
