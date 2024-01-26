@@ -4,7 +4,7 @@
 
 ### 🗿 About me:
 
-My journey into the IT industry began when I landed my first job. It was here that I gained valuable experience as a Python developer. I was tasked with creating my own server with voice assistance and writing various components using React. During our meetings, I actively participated and offered ideas to improve our project. Additionally, I had administrative duties such as assisting our users, finding and tracking bugs. Through this role, I was able to gain a deeper understanding of the industry and further develop my skills.
+Talented developer with backend experience
 
 <p align="left">
  <img width="200" src="cat.gif" alt="cat"/>
