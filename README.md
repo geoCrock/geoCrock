@@ -4,7 +4,7 @@
 
 ### 🗿 About me:
 
-Talented developer with backend experience
+Talented developer with backend experience.
 
 <p align="left">
  <img width="200" src="cat.gif" alt="cat"/>
