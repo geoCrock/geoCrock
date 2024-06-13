@@ -1,4 +1,4 @@
-# Hi, my name is Georgiy! I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+# Hi, my name is Georgiy! I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ---
 
