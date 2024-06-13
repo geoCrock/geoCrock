@@ -11,8 +11,6 @@ Talented developer with backend experience.
  <img width="200" src="cat2.gif" align="right" alt="cat2"/>
 </p>
 
-<strong>Currently looking for a job!<strong>
-
 - 🗣 Contacts: [![Telegram Badge](https://img.shields.io/badge/-freegeorgiy-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/freegeorgiy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=black)](georgiy.pypok1337@gmail.com)
 
 
