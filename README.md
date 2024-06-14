@@ -1,4 +1,4 @@
-# Hi, my name is Georgiy! I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+# Hi, my name is Georgiy! I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ---
 
