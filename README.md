@@ -8,7 +8,7 @@ Talented developer with backend experience and 2 dancing cats.
 
 <p align="left">
  <img width="200" src="cat.gif" alt="cat"/>
-  <img width="200" align="right" src="girl dance.gif" alt="girl dance"/>
+  <img width="200" src="girl dance.gif" alt="girl dance"/>
  <img width="200" src="cat2.gif" align="right" alt="cat2"/>
 </p>
 
