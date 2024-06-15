@@ -4,7 +4,7 @@
 
 ### 🗿 About me:
 
-Talented developer with backend experience and 2 dancing cats.
+Talented developer with backend experience and 2 flexing cats.
 
 <p align="left">
  <img width="200" src="cat.gif" alt="cat"/>
