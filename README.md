@@ -1,10 +1,6 @@
-# Hi, my name is Georgiy! I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-
----
-
 ### 🗿 About me:
 
-Talented backend developer with good experience
+Backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 <p align="left">
  <img width="200" src="cat.gif" alt="cat"/>
