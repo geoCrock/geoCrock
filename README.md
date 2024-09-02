@@ -1,6 +1,6 @@
 ### 🗿 About me:
 
-Backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Talanted Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 <p align="left">
  <img width="200" src="cat.gif" alt="cat"/>
